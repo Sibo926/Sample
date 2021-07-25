@@ -1,3 +1,1 @@
-I was mostly involved in writing jenkins pipeline for java based projects in current company. also attached a sample of my jenkinsfile.
-
-Also I am not much aware of python, c++ projects. so that the reason i have taken travis.yaml from the source code.
+I was mostly involved in writing jenkins pipeline for java based projects in my current company. Attached a sample of my jenkinsfile.
