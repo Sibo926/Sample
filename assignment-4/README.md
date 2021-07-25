@@ -2,7 +2,7 @@ This is one of the scripts I have worked on.
 
 I used to get many requests to delete a particular dependency in pom.xml of lots of projects. To do this manually, it takes a lot of effort and if we get similar task again the whole step has to be repeated. to aviod that manual intervension I had to write a shell script.
 
-Before proceeding with the script, some stuffs had to be taken into consideration. Each and every dependency were having different number of lines, for example surefire-junit4 can only be 5 lines.
+Before proceeding with the script, some stuffs had to be taken into consideration. Each and every dependency were having different number of lines, for example surefire-junit4 can only be 5 lines.  .
 
 ```
 		<dependency>
