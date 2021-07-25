@@ -6,5 +6,5 @@ assignment no. | status | comments
 2 | done |
 3 | done |
 4 | done |
-5 | Not yet familiar with programming language. Still enhancing my programing skills.
+5 | Not yet highly experienced with programming language. Still enhancing my programing skills.
 6 | done |
